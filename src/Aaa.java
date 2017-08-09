@@ -3,4 +3,5 @@
  */
 public class Aaa {
     private int k;
+    private int a;
 }
